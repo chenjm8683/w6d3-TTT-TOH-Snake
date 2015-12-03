@@ -1,0 +1,43 @@
+h1 {
+  font-size: 36px;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.ttt {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+}
+
+li {
+
+  list-style: none;
+  background-color: grey;
+  outline: 1px solid black;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+li:hover {
+  background-color: yellow;
+}
+
+.x {
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: blue;
+}
+
+.o {
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: red;
+}
