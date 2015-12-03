@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+.snake {
+  width: 300px;
+  margin: 0 auto;
+}
+
+div {
+  float: left;
+  height: 15px;
+  width: 15px;
+  outline: 1px solid black;
+}
+
+.shown {
+  background-color: black;
+}
